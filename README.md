@@ -1,5 +1,6 @@
 # Magniffect 
 App which is helpful for user to zoom into screen
+https://play.google.com/store/apps/details?id=com.magniffect.chetan.magniffect&hl=en_IN
 
 ## Issue List: User feedbacks
 1. User customizable options 
@@ -38,5 +39,5 @@ App which is helpful for user to zoom into screen
 
 ## Trello board
 
-https://trello.com/b/eCWZwnHE/magniffect
+https://trello.com/b/CtNUcnLw/magni
 
